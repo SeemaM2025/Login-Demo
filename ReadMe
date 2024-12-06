@@ -1,0 +1,7 @@
+	1. Reads credentials.json file -> Then stores those username and passwords
+	2. Automatically downloads chromedriver & initializes it
+	3. Opens First site -> Logs in with creds
+	4. Verifies Login Success for first site
+	5. Goes to the next site -> Logs in with creds
+	6. Verifies Login Success for the second site
+Stores the snapshots for the both in -> "./reports/" directory
